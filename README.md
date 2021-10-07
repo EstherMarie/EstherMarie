@@ -1,44 +1,45 @@
-## Olá! 😃
+## Hello! 😃
 
-Eu sou a Esther Marie, estudante de Análise e Desenvolvimento de Sistemas.
+My name is Esther Marie Reis. I'm from Rio de Janeiro, Brazil and I'm starting my journey as a Full Stack Developer.
 
-### O que sei até o momento:
+Web accessibility is one of my biggest interests and I aim to help making the internet more accessible and inclusive for everyone.
+
+##
+
+### What I know so far:
 <div style="display: inline_block">
   <img align="center" alt="ícone html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ícone css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ícone javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ícone git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="ícone bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="ícone bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="ícone git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">  
 </div>
 
-### Estou aprendendo:
-<div style="display: inline_block">
-  <img align="center" alt="ícone php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="ícone mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="ícone postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="ícone postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-</div>
-
-### Tenho interesse em aprender:
+### I'm currently learning:
 <div style="display: inline_block">
   <img align="center" alt="ícone ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="ícone react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ícone python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="ícone java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="ícone spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="ícone bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="ícone postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="ícone postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="ícone php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
 
+### I'm interested in learning:
+<div style="display: inline_block">
+  <img align="center" alt="ícone rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" alt="ícone react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="ícone docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="ícone python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+</div>
 
 ##
-
 
 ### Hobbies:
-- Cubos mágicos (tenho uma coleção com diversos tipos! 😄) 
-- Jogos casuais e de estratégia, principalmente StarCraft2
-- Gosto de estudar sobre línguas. Aliás, já fiz faculdade de Latim!
+- Rubik's Cubes & Twisty Puzzles.
+- Casual games, simulators and strategy games. My favorite is StarCraft 2.
+- I like to study languages. By the way, I've previously studied Latin in University.
 
-##
+---
 
 <div style="display: inline_block">
   <a href="mailto:esther_marie@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -76,6 +77,17 @@ Here are some ideas to get you started:
 
 
 ##
+
+
+### Find more of my gambiarras in:
+
+<div style="display: inline_block">
+  <a href="https://codepen.io/Marie_Alni" target="_blank"><img src="https://img.shields.io/badge/-%20CodePen-1e1f26" target="_blank"></a>
+  <a href="https://replit.com/@EstherMarie" target="_blank"><img src="https://img.shields.io/badge/-%20Replit-%230e1525" target="_blank"></a>
+  <a href="-----" target="_blank"><img src="https://img.shields.io/badge/-%20freeCodeCamp-0a0a23" target="_blank"></a>
+</div>
+
+
 
 <div>
   <a href="https://github.com/EstherMarie">
