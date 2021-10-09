@@ -1,10 +1,10 @@
 ## Hello! 😃
 
 My name is Esther Marie Reis. I'm from Rio de Janeiro, Brazil and I'm starting my journey as a Full Stack Developer.
-
+<!--
 Web accessibility is one of my biggest interests and I aim to help making the internet more accessible and inclusive for everyone.
+-->
 
-##
 
 ### What I know so far:
 <div style="display: inline_block">
@@ -30,6 +30,7 @@ Web accessibility is one of my biggest interests and I aim to help making the in
   <img align="center" alt="ícone react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ícone docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="ícone python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="ícone java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
 ##
