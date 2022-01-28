@@ -1,6 +1,6 @@
 ## Hello! 😃
 
-My name is Esther Marie Reis. I'm from Rio de Janeiro, Brazil and I'm starting my journey as a Full Stack Developer.
+My name is Esther Marie Reis. I'm from Rio de Janeiro, Brazil and I'm starting my journey as a Front End Developer.
 <!--
 Web accessibility is one of my biggest interests and I aim to help making the internet more accessible and inclusive for everyone.
 -->
@@ -17,11 +17,11 @@ Web accessibility is one of my biggest interests and I aim to help making the in
 
 ### I'm currently learning:
 <div style="display: inline_block">
-  <img align="center" alt="ícone react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ícone typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ícone sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="ícone nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="ícone react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ícone nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="ícone sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <!--<img align="center" alt="ícone nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">-->
   <img align="center" alt="ícone ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
 </div>
 
@@ -34,6 +34,14 @@ Web accessibility is one of my biggest interests and I aim to help making the in
   <img align="center" alt="ícone python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
+<br>
+
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMarie&show_icons=true&theme=calm&include_all_commits=true&hide=stars&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMarie&layout=compact&hide=jupyter%20notebook,handlebars&langs_count=8&theme=calm"/>
+</div>
+  
 ##
 
 ### Hobbies:
@@ -88,7 +96,6 @@ Here are some ideas to get you started:
   <a href="https://replit.com/@EstherMarie" target="_blank"><img src="https://img.shields.io/badge/-%20Replit-%230e1525" target="_blank"></a>
   <a href="-----" target="_blank"><img src="https://img.shields.io/badge/-%20freeCodeCamp-0a0a23" target="_blank"></a>
 </div>
-
 
 
 <div>
